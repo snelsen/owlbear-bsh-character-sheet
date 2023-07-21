@@ -2,6 +2,7 @@
   "name": "Hello, World!",
   "version": "1.0.0",
   "manifest_version": 1,
+  "icon": "/icon.svg",
   "action": {
     "title": "Hello, World!",
     "icon": "/icon.svg",
